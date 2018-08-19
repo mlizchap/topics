@@ -12,3 +12,4 @@
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
+- [Stacks and Queues](https://github.com/mlizchap/stacks-and-queues)
