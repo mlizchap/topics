@@ -10,6 +10,9 @@
 - [Mongo with Express](https://github.com/mlizchap/mongo-express-basic)
 - [Server Side Auth](https://github.com/mlizchap/server-side-auth)
 
+## Mini-Projects
+- React Todo App [code](https://github.com/mlizchap/react-todo-app) | [live](https://mlizchap.github.io/react-todo-app/) 
+
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
 - [Stacks and Queues](https://github.com/mlizchap/stacks-and-queues)
