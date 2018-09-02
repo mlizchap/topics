@@ -12,6 +12,7 @@
 
 ## Mini-Projects
 - React Todo App [code](https://github.com/mlizchap/react-todo-app) | [live](https://mlizchap.github.io/react-todo-app/) 
+- React Portfolio Template [code](https://github.com/mlizchap/portfolio-template) | [live](http://mlizchap.github.io/portfolio-template)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
