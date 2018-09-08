@@ -14,6 +14,7 @@
 - React Todo App [code](https://github.com/mlizchap/react-todo-app) | [live](https://mlizchap.github.io/react-todo-app/) 
 - React Portfolio Template [code](https://github.com/mlizchap/portfolio-template) | [live](http://mlizchap.github.io/portfolio-template)
 - Redux Form User App [code](https://github.com/mlizchap/redux-form-user-app) | [live](https://mlizchap.github.io/redux-form-user-app/)
+- React Redux Todo App [code](https://github.com/mlizchap/react-redux-todo) | [live](https://mlizchap.github.io/react-redux-todo/)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
