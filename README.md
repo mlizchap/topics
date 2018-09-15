@@ -4,6 +4,7 @@
 - [React Basics](https://github.com/mlizchap/react-basics)
 - [React Router](https://github.com/mlizchap/react-router)
 - [React State Mutations](https://github.com/mlizchap/react-state-mutations)
+- [React Image File Upload](https://github.com/mlizchap/react-file-upload/blob/master/README.md)
 - [Redux Basics](https://github.com/mlizchap/redux-basics)
 - [Redux Form](https://github.com/mlizchap/redux-form)
 - [React Redux Testing](https://github.com/mlizchap/react-redux-testing)
