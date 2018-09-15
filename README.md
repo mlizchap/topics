@@ -13,11 +13,11 @@
 - [Server Side Auth](https://github.com/mlizchap/server-side-auth)
 
 ## Mini-Projects
-- React Todo App [code](https://github.com/mlizchap/react-todo-app) | [live](https://mlizchap.github.io/react-todo-app/) 
-- React Portfolio Template [code](https://github.com/mlizchap/portfolio-template) | [live](http://mlizchap.github.io/portfolio-template)
-- Redux Form User App [code](https://github.com/mlizchap/redux-form-user-app) | [live](https://mlizchap.github.io/redux-form-user-app/)
-- React Redux Todo App [code](https://github.com/mlizchap/react-redux-todo) | [live](https://mlizchap.github.io/react-redux-todo/)
-- [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
+- [React Todo App](https://mlizchap.github.io/react-todo-app/)  | [code](https://github.com/mlizchap/react-todo-app) 
+- [React Portfolio Template](http://mlizchap.github.io/portfolio-template) | [code](https://github.com/mlizchap/portfolio-template) 
+- [Redux Form User App](https://mlizchap.github.io/redux-form-user-app/) | [code](https://github.com/mlizchap/redux-form-user-app) 
+- [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
+- [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
