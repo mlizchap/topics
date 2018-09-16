@@ -19,6 +19,7 @@
 - [Redux Form User App](https://mlizchap.github.io/redux-form-user-app/) | [code](https://github.com/mlizchap/redux-form-user-app) 
 - [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
 - [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
+- [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
