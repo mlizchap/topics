@@ -20,6 +20,9 @@
 - [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
 - [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
 - [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
+- [MERN Recipe App](https://mlizchap.github.io/recipe-app-frontend/)
+  - [frontend code](https://github.com/mlizchap/recipe-app-frontend)
+  - [backend code](https://github.com/mlizchap/recipe-app-frontend)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
