@@ -22,7 +22,7 @@
 - [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
 - [MERN Recipe App](https://mlizchap.github.io/recipe-app-frontend/)
   - [frontend code](https://github.com/mlizchap/recipe-app-frontend)
-  - [backend code](https://github.com/mlizchap/recipe-app-frontend)
+  - [backend code](https://github.com/mlizchap/recipe-app-backend)
 
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
