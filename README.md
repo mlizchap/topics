@@ -1,16 +1,22 @@
 # topics
 
 ## Web Devleopment Topics
-- [React Basics](https://github.com/mlizchap/react-basics)
-- [React Router](https://github.com/mlizchap/react-router)
-- [React State Mutations](https://github.com/mlizchap/react-state-mutations)
+### React
+- [Basics](https://github.com/mlizchap/react-basics)
+- [react-router](https://github.com/mlizchap/react-router)
+- [State Mutations](https://github.com/mlizchap/react-state-mutations)
 - [React Image File Upload](https://github.com/mlizchap/react-file-upload/blob/master/README.md)
+- [Higher Order Components](https://github.com/mlizchap/higher-order-components/blob/master/README.md)
+### Redux
 - [Redux Basics](https://github.com/mlizchap/redux-basics)
 - [Redux Form](https://github.com/mlizchap/redux-form)
-- [React Redux Testing](https://github.com/mlizchap/react-redux-testing)
+### Testing
+- [React and Redux Testing](https://github.com/mlizchap/react-redux-testing)
+### MongoDB
 - [Mongo Basics](https://github.com/mlizchap/mongo-basics)
 - [Mongo with Express](https://github.com/mlizchap/mongo-express-basic)
 - [MongoDB Deploymment on Heroku](https://github.com/mlizchap/mongo-heroku-deployment/blob/master/README.md)
+### Authentication
 - [Server Side Auth](https://github.com/mlizchap/server-side-auth)
 
 ## Mini-Projects
