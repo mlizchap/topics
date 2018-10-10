@@ -1,10 +1,10 @@
 
 ## Mini-Projects
-- [React Todo App](https://mlizchap.github.io/react-todo-app/)  | [code](https://github.com/mlizchap/react-todo-app) 
-- [React Portfolio Template](http://mlizchap.github.io/portfolio-template) | [code](https://github.com/mlizchap/portfolio-template) 
 - [Redux Form User App](https://mlizchap.github.io/redux-form-user-app/) | [code](https://github.com/mlizchap/redux-form-user-app) 
+- [React Portfolio Template](http://mlizchap.github.io/portfolio-template) | [code](https://github.com/mlizchap/portfolio-template) 
 - [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
 - [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
+- [React Todo App](https://mlizchap.github.io/react-todo-app/)  | [code](https://github.com/mlizchap/react-todo-app) 
 - [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
 - [MERN Recipe App](https://mlizchap.github.io/recipe-app-frontend/)
   - [frontend code](https://github.com/mlizchap/recipe-app-frontend)
