@@ -1,14 +1,5 @@
 
-## Mini-Projects
-- [Redux Form User App](https://mlizchap.github.io/redux-form-user-app/) | [code](https://github.com/mlizchap/redux-form-user-app) 
-- [React Portfolio Template](http://mlizchap.github.io/portfolio-template) | [code](https://github.com/mlizchap/portfolio-template) 
-- [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
-- [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
-- [React Todo App](https://mlizchap.github.io/react-todo-app/)  | [code](https://github.com/mlizchap/react-todo-app) 
-- [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
-- [MERN Recipe App](https://mlizchap.github.io/recipe-app-frontend/)
-  - [frontend code](https://github.com/mlizchap/recipe-app-frontend)
-  - [backend code](https://github.com/mlizchap/recipe-app-backend)
+
 
 ## Web Devleopment Topics
 ### React
@@ -30,7 +21,18 @@
 - [Server Side Auth](https://github.com/mlizchap/server-side-auth)
 
 
-
 ## Data Structure Topics
 - [Linked Lists](https://github.com/mlizchap/JS-linked-list)
 - [Stacks and Queues](https://github.com/mlizchap/stacks-and-queues)
+
+
+## Mini-Projects
+- [Redux Form User App](https://mlizchap.github.io/redux-form-user-app/) | [code](https://github.com/mlizchap/redux-form-user-app) 
+- [React Portfolio Template](http://mlizchap.github.io/portfolio-template) | [code](https://github.com/mlizchap/portfolio-template) 
+- [React Redux Todo App](https://mlizchap.github.io/react-redux-todo/) | [code](https://github.com/mlizchap/react-redux-todo) 
+- [MongoDB User Database](https://salty-taiga-31209.herokuapp.com/api) | [code](https://github.com/mlizchap/mongo-heroku-deployment-app)
+- [React Todo App](https://mlizchap.github.io/react-todo-app/)  | [code](https://github.com/mlizchap/react-todo-app) 
+- [React File Upload App](https://mlizchap.github.io/react-file-upload-app/) | [code](https://github.com/mlizchap/react-file-upload-app)
+- [MERN Recipe App](https://mlizchap.github.io/recipe-app-frontend/)
+  - [frontend code](https://github.com/mlizchap/recipe-app-frontend)
+  - [backend code](https://github.com/mlizchap/recipe-app-backend)
